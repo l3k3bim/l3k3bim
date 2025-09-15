@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @l3k3bim
-- 👀 I’m interested in software development and cloud computing
-- 🌱 I’m currently learning backend development (Python)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data engineering, DataOps, ML engineering and MLOps
+- 🌱 I’m currently a Data and AI manager
+- 💞️ I’m looking to collaborate on Data and AI engineering solutions
 - 📫 How to reach me  Email: lekeabim101@gmail.com || Twitter: @_narcissus
 
 <!---
